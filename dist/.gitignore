@@ -3,3 +3,7 @@
 # Useful .gitignore templates: https://github.com/github/gitignore
 
 /credentials.py
+
+#Ignore txt files inside text folder
+text/*.txt
+
